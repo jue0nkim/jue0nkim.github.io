@@ -18,6 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+# About me
+
 My name is Jueon Kim ([dʒuːən kɪm], 김주언). I am an undergraduate student in Biotechnology, Computer Science, and Bioinformatics at Sungkyunkwan University (SKKU). Additionally, I am currently pursuing a master's degree through the Combined BS-MS program.
 
 링크사용법 [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
