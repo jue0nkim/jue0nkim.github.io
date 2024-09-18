@@ -19,8 +19,10 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-
-# About me
+<br>
+<br>
+<br>
+## About me
 
 My name is Jueon Kim ([dʒuːən kɪm], 김주언). I am an undergraduate student in Biotechnology, Computer Science, and Bioinformatics at Sungkyunkwan University (SKKU). Additionally, I am currently pursuing a master's degree through the combined BS-MS program.
 
