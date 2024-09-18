@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: "👩🏻‍💻Computational biologist 📍Sungkyunkwan university, Suwon, South Korea"
+subtitle: "🧬👩🏻‍💻Bioinformatician 📍Sungkyunkwan university, Suwon, South Korea"
 
 profile:
   align: right
