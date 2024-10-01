@@ -5,7 +5,7 @@ permalink: /
 subtitle: "🧬👩🏻‍💻Undergraduate student in Bioinformatics</p> 📍Sungkyunkwan University, Suwon, South Korea"
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
