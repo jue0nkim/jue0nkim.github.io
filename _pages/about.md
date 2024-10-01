@@ -2,9 +2,10 @@
 layout: about
 title: Home
 permalink: /
-subtitle: "🧬👩🏻‍💻Undergraduate student in Bioinformatics</p> 📍Sungkyunkwan University, Suwon, South Korea"
-</p>
-</p>
+subtitle: "🧬👩🏻‍💻Undergraduate student in Bioinformatics  
+📍Sungkyunkwan University, Suwon, South Korea"
+  
+  
 
 profile:
   align: right
@@ -22,7 +23,7 @@ social: true # includes social icons at the bottom of the page
 
 Hello, I am Jueon Kim ([dʒuːən kɪm], 김주언). I am an undergraduate student in Biotechnology, Computer Science, and Bioinformatics at Sungkyunkwan University (SKKU). Additionally, I am currently pursuing a master's degree through the combined BS-MS program, with my research focused on Glioblastoma.
 
-My final goal is to run ~~
+My ultimate goal is to run ~~
 
 ### 💡 interests
 Genetic basis of disease (especially cancer), Multiomics </p>
