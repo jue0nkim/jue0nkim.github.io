@@ -19,7 +19,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-
 ### 💫 about me
 
 Hello, I am Jueon Kim ([dʒuːən kɪm], 김주언). I am an undergraduate student in Biotechnology, Computer Science, and Bioinformatics at [Sungkyunkwan University(SKKU)](https://www.skku.edu/eng). Additionally, I am currently pursuing a master's degree through the combined BS-MS program. My research is focused on Glioblastoma.
@@ -27,6 +26,7 @@ Hello, I am Jueon Kim ([dʒuːən kɪm], 김주언). I am an undergraduate stude
 My ultimate goal is to run ~~
 
 ### 💡 interests
+
 <p>Genetic basis of disease (especially cancer), Multiomics</p>
 Bioinformatics, Data analysis, Machine learning
 <br>
@@ -48,7 +48,6 @@ Bioinformatics, Data analysis, Machine learning
     <h3>🎓 education</h3>
     contents2
   </div>
-
 
 </div>
 
