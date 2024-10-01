@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Imaging of amorphous suspended proteins using LAFM and NeRF deep learning model
+description: <p>Samsung Bioepis Idea Contest</p> <p>2nd prize out of 141 teams</p>
+img: assets/img/
 importance: 1
-category: work
-related_publications: true
+category: Professional
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.

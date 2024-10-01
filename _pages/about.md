@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: "🧬👩🏻‍💻Undergraduate student in Biotechnology and Computer science   
+subtitle: "🧬👩🏻‍💻Undergraduate student in Biotechnology and Computer science    
 📍Sungkyunkwan University, Suwon, South Korea   
 <hr>
 <br>
@@ -22,9 +22,9 @@ social: true # includes social icons at the bottom of the page
 
 
 ### 💡 ABOUT ME
-Hello, I am Jueon Kim ([dʒuːən kɪm], 김주언). I am an undergraduate student in **Biotechnology, Computer Science, and Bioinformatics** at [Sungkyunkwan University(SKKU)](https://www.skku.edu/eng). Additionally, I am currently pursuing a master's degree through the combined BS-MS program. My research is focused on Glioblastoma.
+Hello, I am Jueon Kim ([dʒuːən kɪm], 김주언). I am an undergraduate student in **Biotechnology, Computer Science, and Bioinformatics** at [Sungkyunkwan University(SKKU)](https://www.skku.edu/eng). Additionally, I am currently pursuing a master's degree in [Computational biomedicine lab](https://hoonbiolab.github.io) through the combined BS-MS program, where I am advised by [Hoon Kim](https://hoonbiolab.github.io/people/prof.kim/). My research is focused on elucidating **the relationship between Glioblastoma and ecDNA**.
 
-I seek to
+I ultimately aspire to create a **world where elderly people can live freely**, much like in the village of Hoheveldt in the Netherlands. Growing up in an area with a high percentage of seniors, I have a deep understanding of the challenges, isolation, and loneliness faced by older adults who lack financial resources and family support. This is why my ultimate goal is to **run a healthcare company focused on serving the silver generation**.
 
 
 <br>
@@ -55,23 +55,22 @@ Bioinformatics, Domain specific data analysis, Machine learning
 **Computational biomedicine lab**, SKKU <span style="color: gray;">(Jul 2024 - Present)</span>   
 *Undergraduate researcher* (advisor: Hoon Kim)   
 - Implemented a Docker pipeline to automatically analyze single-cell multiomics data
-- 
 <br>
 
 **Genome Editing Lab**, SKKU <span style="color: gray;">(Jul 2023 - Aug 2023)</span>   
-*Undergraduate researcher* (advisor: Huikwon Kim)   
+*Undergraduate researcher* (advisor: Huikwon Kim)
 - Executed high-throughput CRISPR screenings to build IscB library
 - Analyzed NGS genomic data in genomics for monitoring REC linker mutation status
 <br>
 
 **Molecular Immunology Lab**, SKKU <span style="color: gray;">(Jan 2023 - Feb 2023)</span>   
-*Undergraduate researcher* (advisor: Jaeyoul Cho) 
+*Undergraduate researcher* (advisor: Jaeyoul Cho)
 - Conducted transfection of tagged NF-kB into HEK 293T cell
 - Tested anti-inflammatory effects of natural extracts through cell cytotoxicity
 <br>
 
-**Neurodegeneration & Extracellular vesicles Lab**, SKKU <span style="color: gray;">(Jun 2022 - Jan 2023)</span>	 
-*Undergraduate researcher* (advisor: Donggyu Jo)   
+**Neurodegeneration & Extracellular vesicles Lab**, SKKU <span style="color: gray;">(Jun 2022 - Jan 2023)</span>   	 
+*Undergraduate researcher* (advisor: Donggyu Jo)
 - Visualized β-amyloid plaques by immunohisto*chemistry(IHC) after excising mouse brains
 - Reviewed and presented newly published journals related to Alzheimer's disease
 <br>
@@ -79,35 +78,32 @@ Bioinformatics, Domain specific data analysis, Machine learning
 
 ### 🎓 EDUCATION
 **Sungkyunkwan University(SKKU)**, Seoul, South Korea <span style="color: gray;">(Expected Feb 2025)</span>	  
-  Bachelor of Science in Integrative Biotechnology & Computer science and Engineering & Bioinformatics   
-  GPA: 3.94/4.0   
+  Bachelor of Science in Integrative Biotechnology & Computer science and Engineering & Bioinformatics (GPA: 3.94/4.0)   
   Related Coursework: Biostatistics; Data Structure; R and Python; Statistics for machine learning
 
 **University of North Carolina Greensboro(UNCG)**, NC, United States <span style="color: gray;">(Jan 2024 - May 2024)</span>	  
-  Student exchange program   
-  GPA: 3.92/4.0   
+  Student exchange program (GPA: 3.92/4.0)    
   Related Coursework: Principles of biology; Data computing and quantitative reasoning
 
 **Pukyong National University(PKNU)**, Busan, South Korea <span style="color: gray;">(Mar 2020 - Feb 2022)</span>	  
-  Bachelor of Science in Microbiology   
-  GPA: 3.45/4.0   
+  Bachelor of Science in Microbiology (GPA: 3.45/4.0)   
   Transferred to SKKU in the junior year   
 <br>
 <br>
 
 ### 💰 SCHOLARSHIPS
-**Academic Scholarship from Sungkyunkwan University (Spring 2024)**
-- Received 70% tuition fee for academic excellence (3%)
-**Corporate Scholarship from Mirae Asset(Dec 2023)**
-- student exchange program (with $5,500)
-**Corporate Scholarship from seAH (Oct 2023)**
+**Academic Scholarship from Sungkyunkwan University** (Spring 2024)
+- Received 70% tuition fee for academic excellence (3%)   
+**Corporate Scholarship from Mirae Asset** (Dec 2023)
+- for student exchange program (with $5,500)   
+**Corporate Scholarship from seAH** (Oct 2023)
 - Received $2,200 for the startup presentation
 <br>
 <br>
 
 ### 🏆 AWARDS
-**Samsung Bioepis idea contest (Feb 2023)**
-- 2nd prize out of 141 teams (with $1,600)
-**2nd prize, Sungkyunkwan university Research contest (Nov 2022)**
-- 2nd prize out of 7 teams (with $800)
+[**Samsung Bioepis idea contest**](https://jue0nkim.github.io/projects/1_project/) (Feb 2023)
+- 2nd prize out of 141 teams (with $1,600)   
+[**Sungkyunkwan university Research competition**](https://jue0nkim.github.io/projects/2_project/) (Nov 2022)
+- 2nd prize out of 7 teams (with $800)   
 
