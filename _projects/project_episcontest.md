@@ -2,8 +2,7 @@
 layout: page
 title: Imaging of amorphous suspended proteins using LAFM and NeRF deep learning model
 description: <p>Samsung Bioepis Idea Contest</p> <p>2nd prize out of 141 teams</p>
-
-img: assets/img/episcontest.thumnail.jpg
+img: assets/img/episcontest_thumnail.jpg
 importance: 1
 category: Professional
 related_publications: false
@@ -46,5 +45,6 @@ I gave an oral presentation on it's feasibility and applicability.
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/episcontest_prize.jpg" title="bioepis_contest_prize" class="img-fluid rounded z-depth-1" %}
     </div>
+
 
 Fianlly, we got the second prize out of 141 teams. That's incredible!
