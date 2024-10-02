@@ -10,7 +10,10 @@ related_publications: false
 
 
 I led a team of 4 composed of students studying biology and computer science.
-Our team's project focused on **imaging antibodies**, which are the main products of Samsung Bioepis.
+
+Our team's project focuses on **imaging proteins**. Understanding the structure of proteins is crucial for the research on biosimilars, which are the main products of Samsung Bioepis. Therefore, we proposed a advanced method for imaging non-crystalline suspended proteins that addresses the limitations of existing techniques like X-ray crystallography, NMR, and Cryo-EM. We deployed LAFM micrope and NeRF deep learning model.
+<br>
+<br>
 
 
 <div class="row justify-content-sm-center">
@@ -21,10 +24,6 @@ Our team's project focused on **imaging antibodies**, which are the main product
         {% include figure.liquid path="assets/img/episcontest_result-0002.jpg" title="bioepis_contest_result.2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-We identified **limitations of existing methods** used for imaging antibodies.
-Also, we plan strategy by deploying LAFM and NeRF deep learning model.
-
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/episcontest_result-0003.jpg" title="bioepis_contest_result.3" class="img-fluid rounded z-depth-1" %}
@@ -36,6 +35,8 @@ Also, we plan strategy by deploying LAFM and NeRF deep learning model.
 
 <br>
 I gave an oral presentation on it's feasibility and applicability.
+
+It was quite challenging to prove that the method we proposed is superior to existing imaging methods. We created a table comparing the preprocessing steps, resolution, results, advantages, and disadvantages of each method, and we finally convinced the audience.
 <br>
 <br>
 
@@ -43,6 +44,6 @@ I gave an oral presentation on it's feasibility and applicability.
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/episcontest_prize.jpg" title="bioepis_contest_prize" class="img-fluid rounded z-depth-1" %}
     </div>
+<br>
 
-
-Fianlly, we got the second prize out of 141 teams. That's incredible! 👀
+We got the second prize out of 141 teams. That's incredible! 👀
