@@ -83,8 +83,8 @@ Bioinformatics, Domain specific data analysis, Machine learning
 
 **University of North Carolina Greensboro(UNCG)**, NC, United States <span style="color: gray;">(Jan 2024 - May 2024)</span>	  
   Student exchange program (GPA: 3.92/4.0)    
-  Related Coursework: Principles of biology; Data computing and quantitative reasoning
-📌You can see the entire story [here]()
+  Related Coursework: Principles of biology; Data computing and quantitative reasoning   
+  📌You can see the entire story [here]()
 
 **Pukyong National University(PKNU)**, Busan, South Korea <span style="color: gray;">(Mar 2020 - Feb 2022)</span>	  
   Bachelor of Science in Microbiology (GPA: 3.45/4.0)   
