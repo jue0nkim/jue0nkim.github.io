@@ -22,9 +22,9 @@ social: true # includes social icons at the bottom of the page
 
 
 ### 💡 ABOUT ME
-Hello, I am Jueon Kim ([dʒuːən kɪm], 김주언). I am an undergraduate student in **Biotechnology, Computer Science, and Bioinformatics** at [Sungkyunkwan University(SKKU)](https://www.skku.edu/eng). Additionally, I am currently pursuing a master's degree in [Computational biomedicine lab](https://hoonbiolab.github.io) through the combined BS-MS program, where I am advised by [Hoon Kim](https://hoonbiolab.github.io/people/prof.kim/). My research is focused on elucidating **the relationship between Glioblastoma and ecDNA**.
+Hello, I am Jueon Kim ([dʒuːən kɪm], 김주언). I am an undergraduate student in **Biotechnology, Computer Science, and Bioinformatics** at [Sungkyunkwan University(SKKU)](https://www.skku.edu/eng). Additionally, I am currently pursuing a master's degree in [Computational biomedicine lab](https://hoonbiolab.github.io) through the combined BS-MS program, where I am advised by [Hoon Kim](https://hoonbiolab.github.io/people/prof.kim/). My research is focused on elucidating **the relationship between Glioblastoma and extrachromosomal DNA**.
 
-I ultimately aspire to create a **world where elderly people can live freely**, much like in the village of Hoheveldt in the Netherlands. Growing up in an area with a high percentage of seniors, I have a deep understanding of the challenges, isolation, and loneliness faced by older adults who lack financial resources and family support. This is why my ultimate goal is to **run a healthcare company focused on serving the silver generation**.
+I ultimately aspire to create a **world where elderly people can live freely**, much like in the village of The Hogeweyk in the Netherlands. Growing up in an area with a high percentage of seniors, I have a deep understanding of the challenges, isolation, and loneliness faced by older adults who lack financial resources and family support. This is why my final goal is to **run a healthcare company focused on serving the silver generation**.
 <br>
 <br>
 
@@ -105,9 +105,11 @@ Bioinformatics, Domain specific data analysis, Machine learning
 <br>
 
 ### 🏆 AWARDS
-[**Samsung Bioepis idea contest**](https://jue0nkim.github.io/projects/1_project/) (Feb 2023)
+**Samsung Bioepis idea contest** (Feb 2023)
 - 2nd prize out of 141 teams (with $1,600)   
+- You can see more details [here](https://jue0nkim.github.io/projects/1_project/)
 
-[**Sungkyunkwan university Research competition**](https://jue0nkim.github.io/projects/2_project/) (Nov 2022)
-- 2nd prize out of 7 teams (with $800)   
+**Sungkyunkwan university Research competition** (Nov 2022)
+- 2nd prize out of 7 teams (with $800)  
+- You can see more details [here](https://jue0nkim.github.io/projects/2_project/)
 
