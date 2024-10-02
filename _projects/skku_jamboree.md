@@ -5,7 +5,7 @@ description: <p>Sungkyunkwan university research competition</p> <p>2nd prize ou
 img: assets/img/jamboree_prize.jpg
 importance: 2
 category: Professional
-giscus_comments: true
+giscus_comments: false
 ---
 
 

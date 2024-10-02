@@ -53,7 +53,7 @@ Bioinformatics, Domain specific data analysis, Machine learning
 **Computational biomedicine lab**, SKKU <span style="color: gray;">(Jul 2024 - Present)</span>   
 *Undergraduate researcher* (advisor: Hoon Kim)   
 - Implemented a Docker pipeline to automatically analyze single-cell multiomics data   
-- 📌 You can see more details [here](https://jue0nkim.github.io/projects/lab_Computation/)
+- 📌 You can see more details [here](https://jue0nkim.github.io/projects/lab_computational_biomedicine/)
 <br>
 
 **Genome Editing Lab**, SKKU <span style="color: gray;">(Jul 2023 - Aug 2023)</span>   
@@ -74,7 +74,7 @@ Bioinformatics, Domain specific data analysis, Machine learning
 *Undergraduate researcher* (advisor: Donggyu Jo)
 - Visualized β-amyloid plaques by immunohisto*chemistry(IHC) after excising mouse brains
 - Reviewed and presented newly published journals related to Alzheimer's disease   
-- 📌 You can see more details [here](https://jue0nkim.github.io/projects/lab_Computation-copy/)
+- 📌 You can see more details [here](https://jue0nkim.github.io/projects/lab_neurodegeneration/)
 <br>
 <br>
 
@@ -84,7 +84,7 @@ Bioinformatics, Domain specific data analysis, Machine learning
   Related Coursework: Biostatistics; Data Structure; R and Python; Statistics for machine learning
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/grades.png" title="skku_grades" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/grades.png" title="skku_grades" class="img-fluid rounded z-depth-1" width="200" height="200" %}
     </div>
   </div>
 
