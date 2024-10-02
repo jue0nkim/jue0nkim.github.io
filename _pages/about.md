@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: "🧬👩🏻‍💻Undergraduate student in Biotechnology and Computer science    
+subtitle: "<p>🧬👩🏻‍💻Undergraduate student in Biotechnology and Computer science</p>
 📍Sungkyunkwan University, Suwon, South Korea   
 <hr>
 <br>
@@ -25,8 +25,6 @@ social: true # includes social icons at the bottom of the page
 Hello, I am Jueon Kim ([dʒuːən kɪm], 김주언). I am an undergraduate student in **Biotechnology, Computer Science, and Bioinformatics** at [Sungkyunkwan University(SKKU)](https://www.skku.edu/eng). Additionally, I am currently pursuing a master's degree in [Computational biomedicine lab](https://hoonbiolab.github.io) through the combined BS-MS program, where I am advised by [Hoon Kim](https://hoonbiolab.github.io/people/prof.kim/). My research is focused on elucidating **the relationship between Glioblastoma and ecDNA**.
 
 I ultimately aspire to create a **world where elderly people can live freely**, much like in the village of Hoheveldt in the Netherlands. Growing up in an area with a high percentage of seniors, I have a deep understanding of the challenges, isolation, and loneliness faced by older adults who lack financial resources and family support. This is why my ultimate goal is to **run a healthcare company focused on serving the silver generation**.
-
-
 <br>
 <br>
 
@@ -61,12 +59,14 @@ Bioinformatics, Domain specific data analysis, Machine learning
 *Undergraduate researcher* (advisor: Huikwon Kim)
 - Executed high-throughput CRISPR screenings to build IscB library
 - Analyzed NGS genomic data in genomics for monitoring REC linker mutation status
+- The certificate is available [here](https://jue0nkim.github.io/jue0nkim.github.io/assets/img/kim_urp)
 <br>
 
 **Molecular Immunology Lab**, SKKU <span style="color: gray;">(Jan 2023 - Feb 2023)</span>   
 *Undergraduate researcher* (advisor: Jaeyoul Cho)
 - Conducted transfection of tagged NF-kB into HEK 293T cell
 - Tested anti-inflammatory effects of natural extracts through cell cytotoxicity
+- The certificate is available [here](https://jue0nkim.github.io/jue0nkim.github.io/assets/img/cho_urp)
 <br>
 
 **Neurodegeneration & Extracellular vesicles Lab**, SKKU <span style="color: gray;">(Jun 2022 - Jan 2023)</span>   	 
@@ -94,16 +94,20 @@ Bioinformatics, Domain specific data analysis, Machine learning
 ### 💰 SCHOLARSHIPS
 **Academic Scholarship from Sungkyunkwan University** (Spring 2024)
 - Received 70% tuition fee for academic excellence (3%)   
+
 **Corporate Scholarship from Mirae Asset** (Dec 2023)
 - for student exchange program (with $5,500)   
+
 **Corporate Scholarship from seAH** (Oct 2023)
 - Received $2,200 for the startup presentation
+
 <br>
 <br>
 
 ### 🏆 AWARDS
 [**Samsung Bioepis idea contest**](https://jue0nkim.github.io/projects/1_project/) (Feb 2023)
 - 2nd prize out of 141 teams (with $1,600)   
+
 [**Sungkyunkwan university Research competition**](https://jue0nkim.github.io/projects/2_project/) (Nov 2022)
 - 2nd prize out of 7 teams (with $800)   
 
