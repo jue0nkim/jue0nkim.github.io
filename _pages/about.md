@@ -84,6 +84,7 @@ Bioinformatics, Domain specific data analysis, Machine learning
 **University of North Carolina Greensboro(UNCG)**, NC, United States <span style="color: gray;">(Jan 2024 - May 2024)</span>	  
   Student exchange program (GPA: 3.92/4.0)    
   Related Coursework: Principles of biology; Data computing and quantitative reasoning
+📌You can see the entire story [here]()
 
 **Pukyong National University(PKNU)**, Busan, South Korea <span style="color: gray;">(Mar 2020 - Feb 2022)</span>	  
   Bachelor of Science in Microbiology (GPA: 3.45/4.0)   
@@ -107,9 +108,9 @@ Bioinformatics, Domain specific data analysis, Machine learning
 ### 🏆 AWARDS
 **Samsung Bioepis idea contest** (Feb 2023)
 - 2nd prize out of 141 teams (with $1,600)   
-- You can see more details [here](https://jue0nkim.github.io/projects/1_project/)
+- 📌You can see more details [here](https://jue0nkim.github.io/projects/1_project/)
 
 **Sungkyunkwan university Research competition** (Nov 2022)
 - 2nd prize out of 7 teams (with $800)  
-- You can see more details [here](https://jue0nkim.github.io/projects/2_project/)
+- 📌You can see more details [here](https://jue0nkim.github.io/projects/2_project/)
 

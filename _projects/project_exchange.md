@@ -1,8 +1,8 @@
 ---
 layout: page
-title: student exchange program
-description: a project with no image
-img: assets/img/genecamp_23.jpg
+title: Exchange student in the US
+description: at UNCG
+img: assets/img/exchange_uncg.jpg
 importance: 1
 category: Personal
 ---
