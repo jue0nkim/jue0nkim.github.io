@@ -9,6 +9,7 @@ category: Professional
 related_publications: false
 ---
 
+
 I led a team of 4 composed of students studying biology and computer science.
 Our team's project focused on **imaging antibodies**, which are the main products of Samsung Bioepis.
 
@@ -18,7 +19,7 @@ Our team's project focused on **imaging antibodies**, which are the main product
         {% include figure.liquid path="assets/img/episcontest_result-0001.jpg" title="bioepis_contest_result.1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/episcontest_result-0001.jpg" title="bioepis_contest_result.2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/episcontest_result-0002.jpg" title="bioepis_contest_result.2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
