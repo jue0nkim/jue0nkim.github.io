@@ -52,27 +52,29 @@ Bioinformatics, Domain specific data analysis, Machine learning
 ### 📑 RESEARCH EXPERIENCE
 **Computational biomedicine lab**, SKKU <span style="color: gray;">(Jul 2024 - Present)</span>   
 *Undergraduate researcher* (advisor: Hoon Kim)   
-- Implemented a Docker pipeline to automatically analyze single-cell multiomics data
+- Implemented a Docker pipeline to automatically analyze single-cell multiomics data   
+- 📌 You can see more details [here](https://jue0nkim.github.io/projects/lab_Computation/)
 <br>
 
 **Genome Editing Lab**, SKKU <span style="color: gray;">(Jul 2023 - Aug 2023)</span>   
 *Undergraduate researcher* (advisor: Huikwon Kim)
 - Executed high-throughput CRISPR screenings to build IscB library
 - Analyzed NGS genomic data in genomics for monitoring REC linker mutation status
-- The certificate is available [here](https://jue0nkim.github.io/jue0nkim.github.io/assets/img/kim_urp)
+- 📌 You can see more details [here](https://jue0nkim.github.io/projects/lab_genomeediting/)
 <br>
 
 **Molecular Immunology Lab**, SKKU <span style="color: gray;">(Jan 2023 - Feb 2023)</span>   
 *Undergraduate researcher* (advisor: Jaeyoul Cho)
 - Conducted transfection of tagged NF-kB into HEK 293T cell
 - Tested anti-inflammatory effects of natural extracts through cell cytotoxicity
-- The certificate is available [here](https://jue0nkim.github.io/jue0nkim.github.io/assets/img/cho_urp)
+- 📌 You can see more details [here](https://jue0nkim.github.io/projects/lab_immunology/)
 <br>
 
 **Neurodegeneration & Extracellular vesicles Lab**, SKKU <span style="color: gray;">(Jun 2022 - Jan 2023)</span>   	 
 *Undergraduate researcher* (advisor: Donggyu Jo)
 - Visualized β-amyloid plaques by immunohisto*chemistry(IHC) after excising mouse brains
-- Reviewed and presented newly published journals related to Alzheimer's disease
+- Reviewed and presented newly published journals related to Alzheimer's disease   
+- 📌 You can see more details [here](https://jue0nkim.github.io/projects/lab_Computation-copy/)
 <br>
 <br>
 
@@ -108,9 +110,9 @@ Bioinformatics, Domain specific data analysis, Machine learning
 ### 🏆 AWARDS
 **Samsung Bioepis idea contest** (Feb 2023)
 - 2nd prize out of 141 teams (with $1,600)   
-- 📌You can see more details [here](https://jue0nkim.github.io/projects/1_project/)
+- 📌 You can see more details [here](https://jue0nkim.github.io/projects/epis_contest/)
 
 **Sungkyunkwan university Research competition** (Nov 2022)
 - 2nd prize out of 7 teams (with $800)  
-- 📌You can see more details [here](https://jue0nkim.github.io/projects/2_project/)
+- 📌 You can see more details [here](https://jue0nkim.github.io/projects/skku_jamboree/)
 
