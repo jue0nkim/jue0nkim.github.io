@@ -12,6 +12,7 @@ category: Personal
         {% include figure.liquid loading="eager" path="assets/exchange.jpg" title="exchange_certificate" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 </div>
 	<div class="caption">
     The certificate of the student exchange program

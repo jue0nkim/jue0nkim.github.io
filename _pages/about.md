@@ -20,7 +20,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-
 ### 💡 ABOUT ME
 Hello, I am Jueon Kim ([dʒuːən kɪm], 김주언). I am an undergraduate student in **Biotechnology, Computer Science, and Bioinformatics** at [Sungkyunkwan University(SKKU)](https://www.skku.edu/eng). Additionally, I am currently pursuing a master's degree in [Computational biomedicine lab](https://hoonbiolab.github.io) through the combined BS-MS program, where I am advised by [Hoon Kim](https://hoonbiolab.github.io/people/prof.kim/). My research is focused on elucidating **the relationship between Glioblastoma and extrachromosomal DNA**.
 
@@ -28,12 +27,14 @@ I ultimately aspire to create a **world where elderly people can live freely**, 
 <br>
 <br>
 
+<!-- Interest -->
 ### 🎯 INTERESTS
 Genetic basis of disease (especially cancer), Multiomics   
 Bioinformatics, Domain specific data analysis, Machine learning
 <br>
 <br>
 
+<!-- Skills -->
 ### 🛠️ SKILLS
 🧪 **Wet lab**
 - **Cell biology**: Cell culture; Cytotoxicity assay; Cell imaging(Cytation5)
@@ -49,8 +50,9 @@ Bioinformatics, Domain specific data analysis, Machine learning
 <br>
 <br>
 
+<!-- Research experience -->
 ### 📑 RESEARCH EXPERIENCE
-**Computational biomedicine lab**, SKKU <span style="color: gray;">(Jul 2024 - Present)</span>   
+**Computational biomedicine Lab**, SKKU <span style="color: gray;">(Jul 2024 - Present)</span>   
 *Undergraduate researcher* (advisor: Hoon Kim)   
 - Implemented a Docker pipeline to automatically analyze single-cell multiomics data   
 - 📌 You can see more details [here](https://jue0nkim.github.io/projects/lab_computational_biomedicine/)
@@ -78,6 +80,7 @@ Bioinformatics, Domain specific data analysis, Machine learning
 <br>
 <br>
 
+<!-- Education -->
 ### 🎓 EDUCATION
 **Sungkyunkwan University(SKKU)**, Seoul, South Korea <span style="color: gray;">(Expected Feb 2025)</span>	  
   Bachelor of Science in Integrative Biotechnology & Computer science and Engineering & Bioinformatics (GPA: 3.94/4.0)   
@@ -99,6 +102,7 @@ Bioinformatics, Domain specific data analysis, Machine learning
 <br>
 <br>
 
+<!-- Scholarships -->
 ### 💰 SCHOLARSHIPS
 **Academic Scholarship from Sungkyunkwan University** (Spring 2024)
 - Received 70% tuition fee for academic excellence (3%)   
@@ -112,6 +116,7 @@ Bioinformatics, Domain specific data analysis, Machine learning
 <br>
 <br>
 
+<!-- Awards -->
 ### 🏆 AWARDS
 **Samsung Bioepis idea contest** (Feb 2023)
 - 2nd prize out of 141 teams (with $1,600)   
