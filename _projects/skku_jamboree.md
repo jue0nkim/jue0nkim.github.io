@@ -17,6 +17,12 @@ category: Professional
 <br>
 <br>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/jamboree_present_big.jpg" title="poster" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/jamboree_present_big.jpg" title="presentation1" class="img-fluid rounded z-depth-1" %}
