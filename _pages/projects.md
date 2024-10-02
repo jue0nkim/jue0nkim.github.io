@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of my projects including of my personal life.
 nav: true
 nav_order: 3
-display_categories: [Professional, Personal]
+display_categories: [Professional, Research Intern, Personal]
 horizontal: false
 ---
 
