@@ -1,17 +1,14 @@
 ---
 layout: page
 title: Molecular Immunology Lab
-description: 
+description:
 img: assets/img/cho_urp.jpg
 importance: 3
 category: Research Intern
 related_publications: false
 ---
 
-This page will be updated later.   
-   
-
-
+This page will be updated later.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

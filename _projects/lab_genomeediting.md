@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Genome Editing Lab
-description: 
+description:
 img: assets/img/kim_urp.jpg
 importance: 2
 category: Research Intern
@@ -9,7 +9,6 @@ related_publications: false
 ---
 
 This page will be updated later.
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
