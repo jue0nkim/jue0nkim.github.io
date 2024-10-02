@@ -82,11 +82,16 @@ Bioinformatics, Domain specific data analysis, Machine learning
 **Sungkyunkwan University(SKKU)**, Seoul, South Korea <span style="color: gray;">(Expected Feb 2025)</span>	  
   Bachelor of Science in Integrative Biotechnology & Computer science and Engineering & Bioinformatics (GPA: 3.94/4.0)   
   Related Coursework: Biostatistics; Data Structure; R and Python; Statistics for machine learning
+  <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/grades.png" title="skku_grades" class="img-fluid rounded z-depth-1" %}
+    </div>
+  </div>
 
 **University of North Carolina Greensboro(UNCG)**, NC, United States <span style="color: gray;">(Jan 2024 - May 2024)</span>	  
   Student exchange program (GPA: 3.92/4.0)    
   Related Coursework: Principles of biology; Data computing and quantitative reasoning   
-  📌You can see the entire story [here]()
+  📌 You can see the entire story [here](https://jue0nkim.github.io/projects/skku_exchange/)
 
 **Pukyong National University(PKNU)**, Busan, South Korea <span style="color: gray;">(Mar 2020 - Feb 2022)</span>	  
   Bachelor of Science in Microbiology (GPA: 3.45/4.0)   
