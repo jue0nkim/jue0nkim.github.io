@@ -6,11 +6,13 @@ img: assets/img/episcontest_thumnail.jpg
 importance: 1
 category: Professional
 related_publications: false
+<hr>
 ---
 
+<br>
 I led a team of 4 composed of students studying biology and computer science.
 
-Our team's project focuses on **imaging proteins**. Understanding the structure of proteins is crucial for the research on biosimilars, which are the main products of Samsung Bioepis. Therefore, we proposed a advanced method for imaging non-crystalline suspended proteins that addresses the limitations of existing techniques like X-ray crystallography, NMR, and Cryo-EM. We deployed LAFM micrope and NeRF deep learning model.
+Our team's project focuses on **imaging proteins**. Understanding the structure of proteins is crucial for the research on biosimilars, which are the main products of Samsung Bioepis. Therefore, we proposed **a advanced method for imaging non-crystalline suspended proteins** that addresses the limitations of existing techniques like X-ray crystallography, NMR, and Cryo-EM. We deployed **LAFM micrope** and **NeRF deep learning model**.
 <br>
 <br>
 
@@ -42,6 +44,7 @@ It was quite challenging to prove that the method we proposed is superior to exi
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/episcontest_prize.jpg" title="bioepis_contest_prize" class="img-fluid rounded z-depth-1" %}
     </div>
-<br>
+</div>
 
+<br>
 We got the second prize out of 141 teams. That's incredible! 👀

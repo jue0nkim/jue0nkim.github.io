@@ -9,7 +9,7 @@ category: Personal
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/exchange_certificate.png" title="exchange_certificate" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/exchange_certificate.jpg" title="exchange_certificate" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -22,7 +22,7 @@ category: Personal
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/exchange_transcript.jpeg" title="exchange_transcript" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/exchange_transcript.jpg" title="exchange_transcript" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
