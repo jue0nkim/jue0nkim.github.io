@@ -15,7 +15,7 @@ I led a team of 4 to predict the presence of Alzheimer’s disease with mRNA bio
 
 We achieved **an AUC of 0.96 and 92% accuracy**, surpassing the performance of models from previous studies using the same dataset.
 
-This result is achieved by architecting **a random forest algorithm to extract the top 20 mRNA candidates** based on feature attribution and developing **an MLP classifier**.
+This result is obtained by architecting **a random forest algorithm to extract the top 20 mRNA candidates** based on feature attribution and developing **an MLP classifier**.
 
 <br>
 
