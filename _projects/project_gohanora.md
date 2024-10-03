@@ -3,10 +3,12 @@ layout: page
 title: Gohanora
 description:
 img: assets/img/gohanora_group.jpg
-importance: 1
+importance: 2
 category: Personal
 related_publications: false
 ---
+
+<!-- add content later -->
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

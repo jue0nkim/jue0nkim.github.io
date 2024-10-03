@@ -90,6 +90,7 @@ _Undergraduate researcher_ (advisor: Donggyu Jo)
 - Visualized β-amyloid plaques by immunohisto\*chemistry(IHC) after excising mouse brains
 - Reviewed and presented newly published journals related to Alzheimer's disease
 - 📌 You can see more details [here](https://jue0nkim.github.io/projects/lab_neurodegeneration/)
+  
   <br>
   <br>
 
@@ -115,8 +116,23 @@ _Undergraduate researcher_ (advisor: Donggyu Jo)
 **Pukyong National University(PKNU)**, Busan, South Korea <span style="color: gray;">(Mar 2020 - Feb 2022)</span>   
  Bachelor of Science in Microbiology (GPA: 3.45/4.0)  
  Transferred to SKKU in the junior year  
-<br>
-<br>
+
+ <br>
+ <br>
+
+<!-- Awards -->
+
+### 🏆 AWARDS
+
+**Samsung Bioepis idea contest** <span style="color: gray;">(Feb 2023)</span>
+
+- 2nd prize out of 141 teams (with $1,600)
+- 📌 You can see more details [here](https://jue0nkim.github.io/projects/epis_contest/)
+
+**Sungkyunkwan university Research competition** (Nov 2022)
+
+- 2nd prize out of 7 teams (with $800)
+- 📌 You can see more details [here](https://jue0nkim.github.io/projects/skku_jamboree/)
 
 <!-- Scholarships -->
 
@@ -134,19 +150,4 @@ _Undergraduate researcher_ (advisor: Donggyu Jo)
 
 - Received $2,200 for the startup presentation
 
-<br>
-<br>
 
-<!-- Awards -->
-
-### 🏆 AWARDS
-
-**Samsung Bioepis idea contest** (Feb 2023)
-
-- 2nd prize out of 141 teams (with $1,600)
-- 📌 You can see more details [here](https://jue0nkim.github.io/projects/epis_contest/)
-
-**Sungkyunkwan university Research competition** (Nov 2022)
-
-- 2nd prize out of 7 teams (with $800)
-- 📌 You can see more details [here](https://jue0nkim.github.io/projects/skku_jamboree/)

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Exchange student in the US
+title: Exchange student in the United States
 description: at University of North Carolina, NC
 img: assets/img/exchange_uncg.jpg
 importance: 1
@@ -9,7 +9,7 @@ category: Personal
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/exchange_certificate.jpg" title="exchange_certificate" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/exchange_certificate.jpg" title="exchange_certificate" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -22,7 +22,7 @@ category: Personal
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/exchange_transcript.jpg" title="exchange_transcript" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/exchange_transcript.jpg" title="exchange_transcript" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -31,6 +31,11 @@ category: Personal
     The trascript
 	</div>
 </div>
+
+Here’s a natural translation suitable for a public website:
+I took a total of six courses, three of which were major subjects. Although they were relatively basic for me, they served as a valuable review of what I had learned in the past. Being familiar with the content allowed me to notice **the differences between the higher education systems in Korea and the US.**
+
+<br>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

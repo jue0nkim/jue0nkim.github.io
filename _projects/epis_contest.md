@@ -6,8 +6,9 @@ img: assets/img/episcontest_thumnail.jpg
 importance: 1
 category: Professional
 related_publications: false
-<hr>
 ---
+
+<hr>
 
 <br>
 I led a team of 4 composed of students studying biology and computer science.
@@ -36,7 +37,7 @@ Our team's project focuses on **imaging proteins**. Understanding the structure 
 <br>
 I gave an oral presentation on it's feasibility and applicability.
 
-It was quite challenging to prove that the method we proposed is superior to existing imaging methods. We created a table comparing the preprocessing steps, resolution, results, advantages, and disadvantages of each method, and we finally convinced the audience.
+It was quite **challenging to prove** that the method we proposed is superior to existing imaging methods. We created **a table comparing the preprocessing steps, resolution, results, advantages, and disadvantages of each method**, and we finally convinced the audience.
 <br>
 <br>
 
@@ -47,4 +48,5 @@ It was quite challenging to prove that the method we proposed is superior to exi
 </div>
 
 <br>
-We got the second prize out of 141 teams. That's incredible! 👀
+
+We got the **second prize** out of **141 teams**. That's incredible! 👀
