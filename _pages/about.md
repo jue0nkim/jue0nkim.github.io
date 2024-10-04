@@ -25,6 +25,7 @@ social: true # includes social icons at the bottom of the page
 Hello, I am Jueon Kim ([dʒuːən kɪm], 김주언). I am an undergraduate student in **Biotechnology, Computer Science, and Bioinformatics** at [Sungkyunkwan University(SKKU)](https://www.skku.edu/eng). Additionally, I am currently pursuing a master's degree in [Computational biomedicine lab](https://hoonbiolab.github.io) through the combined BS-MS program, where I am advised by [Hoon Kim](https://hoonbiolab.github.io/people/prof.kim/). My research is focused on elucidating **the relationship between Glioblastoma and extrachromosomal DNA**.
 
 I ultimately aspire to create a **world where elderly people can live freely**, much like in the village of The Hogeweyk in the Netherlands. Growing up in an area with a high percentage of seniors, I have a deep understanding of the challenges, isolation, and loneliness faced by older adults who lack financial resources and family support. This is why my final goal is to **run a healthcare company focused on serving the silver generation**.
+
 <br>
 <br>
 
@@ -34,6 +35,7 @@ I ultimately aspire to create a **world where elderly people can live freely**, 
 
 Genetic basis of disease (especially cancer), Multiomics  
 Bioinformatics, Domain specific data analysis, Machine learning
+
 <br>
 <br>
 
@@ -47,13 +49,13 @@ Bioinformatics, Domain specific data analysis, Machine learning
 - **Molecular biology**: PCR, qPCR, RT-PCR; Western and Southern blotting; ELISA; Spectrofluorometry; Genotyping; DNA cloning, synthesis, assembly; Mutagenesis; NGS preparation, NGS (bulk and single-cell sequencing) analysis; Transfection; Transformation; Transduction
 - **Separation&Purification**: FACS; Chromatography; Immunoprecipitation; Spectrofluorometry
 - **Animal testing**: Mouse behavioral experiments; Brain sampling; Drug test
-  <br>
 
 💻 **Dry lab**
 
 - **Languages**: Proficient in Python, C, R; Intermediate in HTML, SCSS, MATLAB
 - **Packages**: Pandas, NumPy, Spicy, Polars, Scikit-learn, Matplotlib, Seaborn, PyTorch
 - **DevOps**: Docker; Git/GitHub; Linux, Shell script
+  
   <br>
   <br>
 
@@ -66,6 +68,7 @@ _Undergraduate researcher_ (advisor: Hoon Kim)
 
 - Implemented a Docker pipeline to automatically analyze single-cell multiomics data
 - 📌 You can see more details [here](https://jue0nkim.github.io/projects/lab_computational_biomedicine/)
+  
   <br>
 
 **Genome Editing Lab**, SKKU <span style="color: gray;">(Jul 2023 - Aug 2023)</span>  
@@ -74,7 +77,8 @@ _Undergraduate researcher_ (advisor: Huikwon Kim)
 - Executed high-throughput CRISPR screenings to build IscB library
 - Analyzed NGS genomic data in genomics for monitoring REC linker mutation status
 - 📌 You can see more details [here](https://jue0nkim.github.io/projects/lab_genomeediting/)
-  <br>
+ 
+ <br>
 
 **Molecular Immunology Lab**, SKKU <span style="color: gray;">(Jan 2023 - Feb 2023)</span>  
 _Undergraduate researcher_ (advisor: Jaeyoul Cho)
@@ -82,6 +86,7 @@ _Undergraduate researcher_ (advisor: Jaeyoul Cho)
 - Conducted transfection of tagged NF-kB into HEK 293T cell
 - Tested anti-inflammatory effects of natural extracts through cell cytotoxicity
 - 📌 You can see more details [here](https://jue0nkim.github.io/projects/lab_immunology/)
+
   <br>
 
 **Neurodegeneration & Extracellular vesicles Lab**, SKKU <span style="color: gray;">(Jun 2022 - Jan 2023)</span>
@@ -133,6 +138,8 @@ _Undergraduate researcher_ (advisor: Donggyu Jo)
 
 - 2nd prize out of 7 teams (with $800)
 - 📌 You can see more details [here](https://jue0nkim.github.io/projects/skku_jamboree/)
+
+<br>
 
 <!-- Scholarships -->
 

@@ -32,7 +32,6 @@ category: Personal
 	</div>
 </div>
 
-Here’s a natural translation suitable for a public website:
 I took a total of six courses, three of which were major subjects. Although they were relatively basic for me, they served as a valuable review of what I had learned in the past. Being familiar with the content allowed me to notice **the differences between the higher education systems in Korea and the US.**
 
 <br>
