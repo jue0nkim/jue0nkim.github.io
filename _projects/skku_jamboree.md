@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Machine learning model development for early diagnosis of Alzheimer’s disease
+title: Machine Learning Model Development for Early Diagnosis of Alzheimer’s Disease
 description: <p>Sungkyunkwan university research competition</p> <p>2nd prize out of 7 teams</p>
 img: assets/img/jamboree_structure.jpg
 importance: 2

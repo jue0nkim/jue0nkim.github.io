@@ -22,9 +22,9 @@ social: true # includes social icons at the bottom of the page
 
 ### 💡 ABOUT ME
 
-Hello, I am Jueon Kim ([dʒuːən kɪm], 김주언). I am an undergraduate student in **Biotechnology, Computer Science, and Bioinformatics** at [Sungkyunkwan University(SKKU)](https://www.skku.edu/eng). Additionally, I am currently pursuing a master's degree in [Computational biomedicine lab](https://hoonbiolab.github.io) through the combined BS-MS program, where I am advised by [Hoon Kim](https://hoonbiolab.github.io/people/prof.kim/). My research is focused on elucidating **the relationship between Glioblastoma and extrachromosomal DNA**.
+Hello, I am Jueon Kim ([dʒuːən kɪm], 김주언). I am an undergraduate student in **Biotechnology, Computer Science, and Bioinformatics** at [Sungkyunkwan University (SKKU)](https://www.skku.edu/eng). Additionally, I am currently pursuing a master's degree in [Computational Biomedicine Lab](https://hoonbiolab.github.io) through the combined BS-MS program, where I am advised by [Hoon Kim](https://hoonbiolab.github.io/people/prof.kim/). My research is focused on elucidating **the relationship between Glioblastoma and extrachromosomal DNA**.
 
-I ultimately aspire to create a **world where elderly people can live freely**, much like in the village of The Hogeweyk in the Netherlands. Growing up in an area with a high percentage of seniors, I have a deep understanding of the challenges, isolation, and loneliness faced by older adults who lack financial resources and family support. This is why my final goal is to **run a healthcare company focused on serving the silver generation**.
+I ultimately aspire to create a **world where elderly people can live freely**, much like the village of The Hogeweyk in the Netherlands. Growing up in an area with a high percentage of seniors, I have a deep understanding of the challenges, isolation, and loneliness faced by older adults who lack financial resources and family support. This is why my final goal is to **run a healthcare company focused on serving the silver generation**.
 
 <br>
 <br>
@@ -89,7 +89,7 @@ _Undergraduate researcher_ (advisor: Jaeyoul Cho)
 
   <br>
 
-**Neurodegeneration & Extracellular vesicles Lab**, SKKU <span style="color: gray;">(Jun 2022 - Jan 2023)</span>
+**Neurodegeneration & Extracellular vesicles Lab**, SKKU <span style="color: gray;">(Jun 2022 - Jan 2023)</span>   
 _Undergraduate researcher_ (advisor: Donggyu Jo)
 
 - Visualized β-amyloid plaques by immunohisto\*chemistry(IHC) after excising mouse brains
@@ -105,7 +105,7 @@ _Undergraduate researcher_ (advisor: Donggyu Jo)
 
 **Sungkyunkwan University(SKKU)**, Seoul, South Korea <span style="color: gray;">(Expected Feb 2025)</span>   
  Bachelor of Science in Integrative Biotechnology & Computer science and Engineering & Bioinformatics (GPA: 3.94/4.0)  
- Related Coursework: Biostatistics; Data Structure; R and Python; Statistics for machine learning
+ Related Coursework: Genetics; Immunology; Organic chemistry; Biostatistics; Data Structure; R and Python; Statistics for machine learning
 
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -131,11 +131,13 @@ _Undergraduate researcher_ (advisor: Donggyu Jo)
 
 **Samsung Bioepis idea contest** <span style="color: gray;">(Feb 2023)</span>
 
+- Topic: Imaging of Amorphous Suspended Proteins Using LAFM and NeRF Deep Learning Model
 - 2nd prize out of 141 teams (with $1,600)
 - 📌 You can see more details [here](https://jue0nkim.github.io/projects/epis_contest/)
 
 **Sungkyunkwan university Research competition** (Nov 2022)
 
+- Topic: Machine Learning Model Development for Early Diagnosis of Alzheimer’s Disease
 - 2nd prize out of 7 teams (with $800)
 - 📌 You can see more details [here](https://jue0nkim.github.io/projects/skku_jamboree/)
 

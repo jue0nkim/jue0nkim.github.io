@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Imaging of amorphous suspended proteins using LAFM and NeRF deep learning model
+title: Imaging of Amorphous Suspended Proteins Using LAFM and NeRF Deep Learning Model
 description: <p>Samsung Bioepis Idea Contest</p> <p>2nd prize out of 141 teams</p>
 img: assets/img/episcontest_thumnail.jpg
 importance: 1
