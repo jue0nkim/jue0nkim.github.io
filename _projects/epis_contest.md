@@ -13,7 +13,7 @@ related_publications: false
 <br>
 I led a team of 4 composed of students studying biology and computer science.
 
-Our team's project focuses on **imaging proteins**. Understanding the structure of proteins is crucial for the research on biosimilars, which are the main products of Samsung Bioepis. Therefore, we proposed **a advanced method for imaging non-crystalline suspended proteins** that addresses the limitations of existing techniques like X-ray crystallography, NMR, and Cryo-EM. We deployed **LAFM micrope** and **NeRF deep learning model**.
+Our team's project focuses on **imaging proteins**. Understanding the structure of proteins is crucial for the research on biosimilars, which are the main products of Samsung Bioepis. Therefore, we proposed **an advanced method for imaging non-crystalline suspended proteins** that addresses the limitations of existing techniques like X-ray crystallography, NMR, and Cryo-EM. We deployed **LAFM micrope** and **NeRF deep learning model**.
 <br>
 <br>
 
