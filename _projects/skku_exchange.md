@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Exchange student in the United States
-description: at University of North Carolina, NC
+description: at University of North Carolina, NC, USA
 img: assets/img/exchange_uncg.jpg
 importance: 1
 category: Personal

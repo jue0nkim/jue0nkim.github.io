@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SKKU Running crew
+title: SKKU Running club
 description: 
 img: assets/img/skkurun_group.jpg
 importance: 2

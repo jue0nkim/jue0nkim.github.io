@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Gohanora
-description:
+description: modern reenactment of Confucian scholars
 img: assets/img/gohanora_group.jpg
 importance: 2
 category: Personal
 related_publications: false
 ---
 
-The Gohanora is an annual event, **modern reenactment of Confucian scholars** appealing to the king during the Joseon dynasty. 
+The Gohanora is an annual event, **modern reenactment of Confucian scholars** appealing to the king during the Joseon dynasty.   
 SKKU is **a successor of Sunkyunkwan** which is the foremost educational institution in Korea, making it **the oldest university**in the country.
 
 <div class="row">
@@ -17,4 +17,5 @@ SKKU is **a successor of Sunkyunkwan** which is the foremost educational institu
     </div>
 </div>
 
-This event consisted of five teams, and I was the leader of the Baekho team. Our team won first place among the five teams and received the 'Tongal Award,' marching at the front.
+This event consisted of five teams, and I was the leader of 'Baekho' team.   
+Our team won first place among the five teams and received the 'Tongal' Award, marching at the front.
