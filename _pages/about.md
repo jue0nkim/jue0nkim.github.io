@@ -125,7 +125,7 @@ _Undergraduate researcher_ (advisor: Donggyu Jo)
 - 2nd prize out of 141 teams (with $1,600)
 - 📌 You can see more details [here](https://jue0nkim.github.io/projects/epis_contest/)
 
-**Sungkyunkwan university Research competition** (Nov 2022)
+**Sungkyunkwan university Research competition** <span style="color: gray;">(Nov 2022)</span>
 
 - Topic: Machine Learning Model Development for Early Diagnosis of Alzheimer’s Disease
 - 2nd prize out of 7 teams (with $800)
@@ -139,10 +139,11 @@ _Undergraduate researcher_ (advisor: Donggyu Jo)
 
 **Academic Scholarship from Sungkyunkwan University** <span style="color: gray;">(Spring 2024)</span>
 
-- Received 70% tuition fee for academic excellence (3%)
+- 70% tuition fee for academic excellence (3%)
 
 **Corporate Scholarship from Mirae Asset** <span style="color: gray;">(Dec 2023)</span>
 
+<<<<<<< HEAD
 - Received $5,500 for student exchange program
 
 **Corporate Scholarship from seAH** <span style="color: gray;">(Oct 2023)</span>
@@ -150,3 +151,11 @@ _Undergraduate researcher_ (advisor: Donggyu Jo)
 - Received $2,200 for the startup presentation
 
  <br>
+=======
+- $5,500 for student exchange program
+
+**Corporate Scholarship from seAH** <span style="color: gray;">(Oct 2023)</span>
+
+- $2,200 for starting a startup
+
+>>>>>>> 27e8c84 (update18)
