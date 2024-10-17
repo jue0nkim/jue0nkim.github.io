@@ -146,20 +146,9 @@ _Undergraduate researcher_ (advisor: Donggyu Jo)
 
 **Corporate Scholarship from Mirae Asset** <span style="color: gray;">(Dec 2023)</span>
 
-<<<<<<< HEAD
-
 - Received $5,500 for student exchange program
 
 **Corporate Scholarship from seAH** <span style="color: gray;">(Oct 2023)</span>
 
-- Received $2,200 for the startup presentation
+- Received $2,200 for starting a startup
 
-# <br>
-
-- $5,500 for student exchange program
-
-**Corporate Scholarship from seAH** <span style="color: gray;">(Oct 2023)</span>
-
-- $2,200 for starting a startup
-
-> > > > > > > 27e8c84 (update18)
