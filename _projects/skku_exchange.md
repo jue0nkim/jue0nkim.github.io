@@ -19,7 +19,6 @@ category: Personal
 	</div>
 </div>
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/exchange_transcript.jpg" title="exchange_transcript" class="img-fluid rounded z-depth-1" %}
@@ -70,4 +69,4 @@ I took a total of six courses, three of which were major subjects. Although they
 	</div>
 </div>
 
-I genuinely appreciate my new friends for sharing a small part of their lives with me. It was my first time out of Asia and living abroad. I initially struggled due to the language barrier and cultural differences. However, I really fit in by the end, thanks to all of their kindness. 
+I genuinely appreciate my new friends for sharing a small part of their lives with me. It was my first time out of Asia and living abroad. I initially struggled due to the language barrier and cultural differences. However, I really fit in by the end, thanks to all of their kindness.
