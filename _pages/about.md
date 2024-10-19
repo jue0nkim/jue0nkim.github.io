@@ -142,7 +142,7 @@ _Undergraduate researcher_ (advisor: Donggyu Jo)
 
 **Academic Scholarship from Sungkyunkwan University** <span style="color: gray;">(Spring 2024)</span>
 
-- 70% tuition fee for academic excellence (3%)
+- Received a 70% tuition fee waiver for academic excellence (top 3%)
 
 **Corporate Scholarship from Mirae Asset** <span style="color: gray;">(Dec 2023)</span>
 
@@ -150,5 +150,5 @@ _Undergraduate researcher_ (advisor: Donggyu Jo)
 
 **Corporate Scholarship from seAH** <span style="color: gray;">(Oct 2023)</span>
 
-- Received $2,200 for starting a startup
+- Received $2,200 in startup seed funding
 
