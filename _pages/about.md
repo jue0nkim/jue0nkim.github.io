@@ -99,11 +99,11 @@ _Undergraduate researcher_ (advisor: Donggyu Jo)
 - Bachelor of Science in Integrative Biotechnology & Computer science and Engineering & Bioinformatics (GPA: 3.94/4.0)
 - Related Coursework: Genetics; Immunology; Organic chemistry; Biostatistics; Data Structure; R and Python; Statistics for machine learning
 
-  <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/grades.png" title="skku_grades" class="img-fluid rounded z-depth-1" width="200" height="200" %}
-    </div>
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid loading="eager" path="assets/img/grades.png" title="skku_grades" class="img-fluid rounded z-depth-1" width="200" height="200" %}
   </div>
+</div>
 
 **University of North Carolina Greensboro(UNCG)**, NC, United States <span style="color: gray;">(Jan 2024 - May 2024)</span>
 
