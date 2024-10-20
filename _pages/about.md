@@ -33,8 +33,8 @@ I ultimately aspire to create a **world where elderly people can live freely**, 
 
 ### 🎯 INTERESTS
 
-Genetic basis of disease (especially cancer), Multiomics  
-Bioinformatics, Domain specific data analysis, Machine learning
+Genetic basis of disease (especially cancer), Single-cell analysis, Multiomics   
+Bioinformatics, Domain-specific data analysis, Machine learning
 
  <br>
 
@@ -51,9 +51,9 @@ Bioinformatics, Domain specific data analysis, Machine learning
 
 💻 **Dry lab**
 
-- **Languages**: Proficient in Python, C, R; Intermediate in HTML, SCSS, MATLAB
-- **Packages**: Pandas, NumPy, Spicy, Polars, Scikit-learn, Matplotlib, Seaborn, PyTorch
-- **DevOps**: Docker; Git/GitHub; Linux, Shell script
+- **Languages**: Proficient in Python, C, R; Intermediate in HTML, CSS, MATLAB
+- **Packages**: Pandas, NumPy, Spicy, Polars, Scikit-learn, Matplotlib, Seaborn, PyTorch etc.
+- **DevOps**: Docker/Singularity; Git/GitHub; Linux, Shell script
 
   <br>
 
