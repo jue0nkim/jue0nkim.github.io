@@ -144,11 +144,11 @@ _Undergraduate researcher_ (advisor: Donggyu Jo)
 
 - 70% tuition fee waiver for academic excellence (top 3%)
 
-**Corporate Scholarship from Mirae Asset** <span style="color: gray;">(Dec 2023)</span>
+**Corporate Scholarship from [Mirae Asset](https://global.miraeasset.com)** <span style="color: gray;">(Dec 2023)</span>
 
 - $5,500 for student exchange program
 
-**Corporate Scholarship from seAH** <span style="color: gray;">(Oct 2022)</span>
+**Corporate Scholarship from [seAH](https://www.seah.co.kr/eng/)** <span style="color: gray;">(Oct 2022)</span>
 
 - $2,200 for startup seed funding
 
