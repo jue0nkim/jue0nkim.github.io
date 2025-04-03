@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: "<p>🧬👩🏻‍💻Undergraduate student in Biotechnology and Computer science</p>
+subtitle: "<p>🧬👩🏻‍💻Graduate student in Bioinformatics </p>
 📍Sungkyunkwan University, Suwon, South Korea   
 <hr>
 <br>
@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 
 ### 💡 ABOUT ME
 
-Hello, I am Jueon Kim ([dʒuːən kɪm], 김주언). I am an undergraduate student in **Biotechnology, Computer Science, and Bioinformatics** at [Sungkyunkwan University (SKKU)](https://www.skku.edu/eng). Additionally, I am currently pursuing a master's degree in [Computational Biomedicine Lab](https://hoonbiolab.github.io) through the combined BS-MS program, where I am advised by [Hoon Kim](https://hoonbiolab.github.io/people/prof.kim/). My research is focused on elucidating **the relationship between Glioblastoma and extrachromosomal DNA**.
+Hello, I am Jueon Kim ([dʒuːən kɪm], 김주언). I am an graduate student in **Bioinformatics** at [Sungkyunkwan University (SKKU)](https://www.skku.edu/eng). Additionally, I am currently pursuing a master's degree in [Computational Biomedicine Lab](https://hoonbiolab.github.io) through the combined BS-MS program, where I am advised by [Hoon Kim](https://hoonbiolab.github.io/people/prof.kim/). My research is focused on elucidating **the relationship between Glioblastoma and extrachromosomal DNA**.
 
 I ultimately aspire to create a **world where elderly people can live freely**, much like the village of The Hogeweyk in the Netherlands. Growing up in an area with a high percentage of seniors, I have a deep understanding of the challenges, isolation, and loneliness faced by older adults who lack financial resources and family support. This is why my final goal is to **run a healthcare company focused on serving the silver generation**.
 
